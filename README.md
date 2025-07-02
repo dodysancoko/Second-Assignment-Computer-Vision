@@ -1,0 +1,1 @@
+Comparison of 3 object detection architectures (YOLOv5, SSD MobileNetv3, and RT-DETR) in recognizing 11 classes of hand gestures. The eleven classes are 1, 2, 3, 4, 5, 6, 7, 8, 9, 0, addition, division, equal, minus, and multiplication.
